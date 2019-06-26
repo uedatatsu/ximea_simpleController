@@ -15,8 +15,22 @@ from https://www.ximea.com/support/wiki/apis/XIMEA_Windows_Software_Package
 
 ### 2. Change visual studio property
 Additional include directory in C/C++
+```rb
   C:\OpenCV\4.0.1\include
   C:\XIMEA\API
+```
 
-### 2. WIN32 → _WIN32
+Additional library directory in linker
+```rb
+  C:\OpenCV\4.0.1\x64\vc15\lib
+  C:\XIMEA\API\x64
+```
+
+Additional dependency file in linker
+```rb
+  opencv_world401d.lib
+  xiapi64.lib
+```
+
+### 3. WIN32 → _WIN32
 in "xiApi.h", change ""
