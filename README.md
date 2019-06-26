@@ -33,6 +33,8 @@ Additional dependency file in linker
 ```
 
 ### 3. Change WIN32 → _WIN32 in "xiApi.h"
+![be](https://user-images.githubusercontent.com/28892387/60168126-53ee5280-983f-11e9-927f-8ea26911c4ee.PNG)
+![af](https://user-images.githubusercontent.com/28892387/60168164-56e94300-983f-11e9-9605-9159c50935c1.PNG)
 
 
 
