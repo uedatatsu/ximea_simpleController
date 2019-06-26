@@ -32,5 +32,7 @@ Additional dependency file in linker
   xiapi64.lib
 ```
 
-### 3. WIN32 → _WIN32
-in "xiApi.h", change ""
+### 3. Change WIN32 → _WIN32 in "xiApi.h"
+
+
+
