@@ -10,5 +10,5 @@ Simple controller for ximea camera
 - XiQ MQ013CG-ON (Camera)
 
 ## Setup
-
+### 1. WIN32 → _WIN32
 
